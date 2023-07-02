@@ -1,4 +1,4 @@
-# J'Lok Myspace Webpage
+# J Lok's Myspace Webpage
 
 This is a Myspace webpage that I created using HTML and CSS. It's a throwback to the good old days of social networking! 🎉
 
